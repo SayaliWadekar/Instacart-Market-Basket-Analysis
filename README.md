@@ -7,10 +7,10 @@
 ##### The goal of this project is to use market basket analysis to establish associations between products. Apriori algorithm and association rule mining will be considered for modeling. The data will include the purchase history of a customer along with items that were bought together by other customers.
 
 #### Project Objectives
-##### Identify those items that show associative behavior and group them together.
-##### Measure support, confidence and lift scores for pairs of items for evaluation.
-##### The model thus formed can be used to push targeted advertisements to customers.
-##### Physical stores can use this information to organise items effectively.
+##### -Identify those items that show associative behavior and group them together.
+##### -Measure support, confidence and lift scores for pairs of items for evaluation.
+##### -The model thus formed can be used to push targeted advertisements to customers.
+##### -Physical stores can use this information to organise items effectively.
 
 
 
