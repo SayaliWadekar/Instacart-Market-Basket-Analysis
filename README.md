@@ -8,9 +8,9 @@
 
 #### Project Objectives
 ##### Identify those items that show associative behavior and group them together.
-Measure support, confidence and lift scores for pairs of items for evaluation.
-The model thus formed can be used to push targeted advertisements to customers.
-Physical stores can use this information to organise items effectively.
+##### Measure support, confidence and lift scores for pairs of items for evaluation.
+##### The model thus formed can be used to push targeted advertisements to customers.
+##### Physical stores can use this information to organise items effectively.
 
 
 
